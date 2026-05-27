@@ -1,0 +1,8 @@
+{
+  "name": "Sovereign Gate",
+  "description": "Terminal de Caçadores sincronizado com o Sistema do Monarca das Sombras e integrações de rede neural",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
