@@ -1,4 +1,6 @@
-@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 @layer utilities {
   .glass-panel {
@@ -8,7 +10,6 @@
   }
 }
 
-/* Cyberpunk grid theme & scan-line rules */
 .shadow-scan {
   position: fixed;
   inset: 0;
